@@ -1,2 +1,2 @@
 # Quantum-Encryption
-Simulating quantum encryption
+Simulating quantum cryptography
